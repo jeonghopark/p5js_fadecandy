@@ -1,11 +1,15 @@
 // Connect to the local instance of fcserver
-var WebSocketAddress1 = "ws://192.168.1.231:7890";  // WLAN
-var WebSocketAddress2 = "ws://192.168.1.232:7890";  // WLAN 
-var WebSocketAddress3 = "ws://192.168.1.233:7890";  // WLAN 
+// var WebSocketAddress1 = "ws://192.168.1.231:7890";  // WLAN
+// var WebSocketAddress2 = "ws://192.168.1.232:7890";  // WLAN 
+// var WebSocketAddress3 = "ws://192.168.1.233:7890";  // WLAN 
 
 // var WebSocketAddress1 = "ws://192.168.1.219:7890";  // Cable
 // var WebSocketAddress2 = "ws://192.168.1.73:7890";  // Cable 
 // var WebSocketAddress3 = "ws://192.168.1.4:7890";  // Cable 
+
+var WebSocketAddress1 = "ws://127.0.0.1:7890";  // WLAN
+var WebSocketAddress2 = "ws://127.0.0.1:7891";  // WLAN 
+var WebSocketAddress3 = "ws://127.0.0.1:7892";  // WLAN 
 
 
 //Show LED pixel locations.
